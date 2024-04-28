@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aidomainking.com/sitemap.xml
